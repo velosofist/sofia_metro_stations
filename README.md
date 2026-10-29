@@ -1,6 +1,6 @@
 # Sofia's metro stations
 
-An effort to open-source a high-quality dataset of the shapes of Sofia's subway stations.
+An effort to open-source a high-quality dataset of the shapes of Sofia's subway stations. This dataset is meant for the web app [ВелоСФ / velo-sofia.com](https://velo-sofia.com), but I would like to keep it open for all devs to use.
 
 Possible sources for this project:
 - [Sofiaplan's "Метростанции"](https://urbandata.sofia.bg/dataset/subway-stations)
