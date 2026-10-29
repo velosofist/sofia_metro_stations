@@ -16,6 +16,7 @@ An example of the precision of floor plans I'd like to achieve:
   - No station names and meaningful attributes
 - [Sofiaplan's "Метростанции - входове"](https://urbandata.sofia.bg/dataset/metro-stations-entrances)
   - [Open data](https://sofiaplan.bg/%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D0%B7%D0%B0-%D0%BF%D0%BE%D0%BB%D0%B7%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B8/)
+  - Decently detailed attributes
 - Pictures of printed floor plans shown in the stations
   - I will upload them in this project sorted by metro line.
 - [Easyway](https://www.eway.bg/bg/cities/sofia)
