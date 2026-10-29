@@ -20,7 +20,7 @@ An example of the precision of floor plans I'd like to achieve:
   - I will upload them in this project sorted by metro line.
 - [Easyway](https://www.eway.bg/bg/cities/sofia)
   - [Not considered open data](https://www.eway.bg/bg/api)
-  - Very high-quality data
+  - Very high-quality shapes
 - [Planning documents for the subway network](https://gis.sofiaplan.bg/server/rest/services/transport)
   - Likely not considered open data
   - Already mostly included in Sofiaplan's open dataset
