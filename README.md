@@ -2,6 +2,8 @@
 
 An effort to open-source a high-quality dataset of the shapes of Sofia's subway stations. This dataset is meant for the web app [ВелоСФ / velo-sofia.com](https://velo-sofia.com), but I would like to keep it open for all devs to use.
 
+<img width="1261" height="974" alt="An example of the precision of floor plans I'd like to achieve" src="https://github.com/user-attachments/assets/eeacdb7f-06f7-45f4-991c-6c46fa4503cb" />
+
 ## Possible sources
 
 - [Sofiaplan's "Метростанции"](https://urbandata.sofia.bg/dataset/subway-stations)
@@ -25,4 +27,3 @@ An effort to open-source a high-quality dataset of the shapes of Sofia's subway 
 - [Trinmo.org](https://map.trinmo.org/)
   - Already uses Easyway's data
 
-<img width="1261" height="974" alt="image" src="https://github.com/user-attachments/assets/eeacdb7f-06f7-45f4-991c-6c46fa4503cb" />
