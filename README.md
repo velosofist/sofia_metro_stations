@@ -1,7 +1,7 @@
 # Sofia's metro stations (a work in progress)
 
 An effort to open-source a high-quality dataset of the shapes of Sofia's subway stations, along with the locations of yet unmapped (in OSM) bicycle parking spots in them. This dataset is meant for the web app [ВелоСФ / velo-sofia.com](https://velo-sofia.com), but I would like to keep it open for all devs to use.
-Opening one of the geojson files in GitHub's desktop app will show a preview. [Geojson.io](https://geojson.io/) will be the main tool used for edits.
+Opening one of the geojson files in GitHub's desktop app will show a preview. [Geojson.io](https://geojson.io/) will be the main tool used for basic edits and JOSM with the PicLayer plugin will be used for photo tracing.
 
 If you're interested in contributing, please do. No coding or GitHub account is required. You could provide images of station floor plans, for instance. You can contact me at <velosofize@gmail.com> .
 
