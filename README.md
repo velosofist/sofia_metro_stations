@@ -19,6 +19,8 @@ An example of the precision of floor plans I'd like to achieve:
   - Decently detailed attributes
 - Pictures of printed floor plans shown in the stations
   - I will upload them in this project sorted by metro line.
+- Evacuation floor plans
+   - These will be photographed and used for detailed photo tracing into a general shape, but will not be uploaded to the repo for security reasons (The stations are likely considered critical infrastructure)
 - [Easyway](https://www.eway.bg/bg/cities/sofia)
   - [Not considered open data](https://www.eway.bg/bg/api)
   - Very high-quality shapes
